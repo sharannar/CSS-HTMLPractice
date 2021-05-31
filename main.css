@@ -25,6 +25,7 @@ div.b{
     margin-right: 30px;
     margin-bottom: 50px;
     margin-left: 80px;
+    
     .elementNAME {
       animation-duration: 3s;
       animation-delay: 2s;
@@ -40,7 +41,7 @@ border-style:solid;
 
   h3{
   text-align: center;
-  border-style: :solid;;
+  border-style: :solid;
 }
     
   h4{
