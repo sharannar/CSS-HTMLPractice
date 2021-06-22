@@ -1,7 +1,7 @@
 body {
-    background-color: whitesmoke;
+    background-color: lightsteelblue;
 
-  }
+    }
   
 p1 {
  text-align:center;
@@ -27,14 +27,19 @@ div.b{
     margin-left: 80px;
     
     .elementNAME {
-      animation-duration: 3s;
-      animation-delay: 2s;
+      animation-duration: 1s;
+      animation-delay: 1s;
       animation-iteration-count: infinite;
+      transition: all 1s;
   }
-  
+  {
+    img: hover;
+    transition:scale (1.1);
+  }
   h2{
 text-align: right;
 border-style:solid;
+padding: 40px;
 
 
   }
@@ -60,6 +65,10 @@ border-style:solid;
   margin-right: auto;
   width:60%;
   height: 80%;
+  opacity: .50;
+  background-position: center;
+  background-size: cover;
+  transition: all 1s;
 }
 footer{
   padding:3px;
