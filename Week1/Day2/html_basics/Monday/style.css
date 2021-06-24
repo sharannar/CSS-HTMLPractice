@@ -1,0 +1,93 @@
+h1 {
+    margin-top: 50px;
+    margin-right: 30px;
+    margin-bottom: 50px;
+    margin-left: 80px;
+}
+img.block-image {
+display: block;
+}
+li.inline-list {
+display: inline;
+}
+div.hidden-div{
+display: none;
+}
+img.invisible-image{
+  visibility: hidden;
+}
+p#dotted {border-style: dotted;}
+p.dashed {border-style: dashed;}
+p.solid {border-style: solid;
+border-radius: 50%;
+border-radius: 60px / 15px;
+}
+p.double {border-style: double;}
+p.groove {border-style: groove;}
+p.ridge {border-style: ridge;}
+p.inset {border-style: inset;}
+p.outset {border-style: outset;}
+p.none {border-style: none;}
+p.hidden {border-style: hidden;}
+p.mix {border-style: dotted dashed solid double;}
+div.fixed {
+position: fixed;
+bottom: 0;
+right: 0;
+width: 300px;
+border: 3px solid #73AD21;
+}
+div.relative {
+position: relative;
+width: 400px;
+height: 200px;
+border: 3px solid #73AD21;
+}
+div.absolute {
+position: absolute;
+top: 80px;
+right: 0;
+width: 200px;
+height: 100px;
+border: 3px solid #73AD21;
+}
+.div1{
+margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 150px;
+margin-left: 80px;
+}
+#red {
+color: red
+}
+#blue {
+color: blue
+}
+#green {
+color:green
+}
+.big{
+text-align: center;
+}
+a:link {
+color: blue
+}
+a:visited {
+color:green
+}
+a:hover{
+color:red
+}
+a:active {
+color:yellow
+}
+div td p{
+color: #0000ff 
+}
+
+
+
+
+
+
+
